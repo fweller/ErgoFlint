@@ -43,5 +43,13 @@ If UHK makes a columnar staggered version of their UHKv2 keyboard, I'll probably
 - ergoflint.json This is the keyboard layout that can be viewed with the [keyboard-layout-editor](http://www.keyboard-layout-editor.com/)
 - ergoflint.png is the printed output of the above.
 
+# Keycap contention
+
+Backspace is usually 2u in ANSI and ISO, but is 1u in Japanese and many ortholinear kits.
+Delete is usually 2u in full size keyboards, but is 1u in ortholinear kits.
+Pipe /Backslash "|\" is usually 1.25u, but can also be 1u.
+
+
+
 
 
